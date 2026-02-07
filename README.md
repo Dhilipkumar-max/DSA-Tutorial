@@ -81,7 +81,7 @@ Day-01/
 │
 ├── Table_Multiplication/
 │ ├── multiplication.c
-│ ├── multiplication.java
+│ ├── multiplicatoin.java
 │ └── multiplication.py
 │
 └── README.md
@@ -93,11 +93,6 @@ Day-01/
 - Check Even or Odd
 - Multiplication Table
 - Sum of Natural Numbers
-- Sum of Squares of Natural Numbers
-- Swap Two Numbers
-- Closest Number
-- Dice Problem
-- Nth Term of AP
 
 🎯 Focus: **Clear thinking and strong logic foundation**
 
