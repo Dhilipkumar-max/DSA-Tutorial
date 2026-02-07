@@ -67,24 +67,22 @@ Each day contains:
 
 Example structure:
 
-Day-01/
-│
+```
+Day-1/
 ├── Even_Or_Odd/
-│ ├── Even_Or_Odd.c
-│ ├── Even_Or_Odd.java
-│ └── Even_Or_Odd.py
-│
+│   ├── Even_Or_Odd.c
+│   ├── Even_Or_Odd.java
+│   └── Even_Or_Odd.py
 ├── Sum_Of_n/
-│ ├── Sum_Of_n.c
-│ ├── Sum_Of_n.java
-│ └── Sum_Of_n.py
-│
+│   ├── Sum_Of_n.c
+│   ├── Sum_Of_n.java
+│   └── Sum_Of_n.py
 ├── Table_Multiplication/
-│ ├── multiplication.c
-│ ├── multiplicatoin.java
-│ └── multiplication.py
-│
+│   ├── multiplication.c
+│   ├── multiplicatoin.java
+│   └── multiplication.py
 └── README.md
+```
 
 ---
 
